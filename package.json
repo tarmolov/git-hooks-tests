@@ -1,0 +1,7 @@
+{
+  "name": "git-hooks-test",
+  "version": "0.0.1",
+  "devDependencies": {
+    "git-hooks": "^1.1.1"
+  }
+}
